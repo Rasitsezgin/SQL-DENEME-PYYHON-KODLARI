@@ -2,7 +2,7 @@
 
 import requests
 import re
-import time
+import time 
 from urllib.parse import urlparse, urljoin, quote_plus
 from bs4 import BeautifulSoup # HTML ayrıştırma için
 
