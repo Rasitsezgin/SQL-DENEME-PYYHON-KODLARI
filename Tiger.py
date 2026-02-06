@@ -6,7 +6,7 @@
 
 Advanced Features:
   ✓ 200+ High-Quality Payloads (Error, Boolean, Time, Union, Stacked)
-  ✓ Multi-Database Support (MySQL, MSSQL, PostgreSQL, Oracle, SQLite, MongoDB)
+  ✓ Multi-Database Support (MySQL, MSSQL, PostgreSQL, Oracle, SQLite, MongoDB) 
   ✓ Advanced WAF Bypass Techniques (Encoding, Obfuscation, Comment Injection)
   ✓ SSL/TLS Full Compatibility (No certificate errors)
   ✓ Smart Detection Engine (False positive reduction)
