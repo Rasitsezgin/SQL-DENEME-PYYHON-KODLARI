@@ -3,7 +3,7 @@
 """
 Advanced SQL Injection Scanner 
 
-Features:
+Features:  
 - 800+ SQL injection payloads
 - Error-based, Boolean-based, Time-based, UNION-based detection
 - WAF bypass techniques (encoding, obfuscation, comment injection)
