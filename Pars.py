@@ -5,7 +5,7 @@
 
 Features:
 - Async concurrent scanning
-- 500+ SQL injection payloads
+- 500+ SQL injection payloads 
 - Error-based, Boolean-based, Time-based detection
 - Advanced WAF bypass techniques
 - Smart response analysis
